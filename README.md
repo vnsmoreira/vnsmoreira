@@ -1,7 +1,7 @@
-### <a href="./src/assets" style="color:red;">Portuguese</a> | <a href="./src/assets">English</a>
+### <a href="./" style="color:red;">Portuguese</a> | <a href="./">English</a>
 <br></br>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=vnsmoreira&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D&dates=FCC1FF&fire=A704DD" width="100%" style="max-width:100%;"/>
-<img src="https://user-images.githubusercontent.com/76014502/148042589-b318116b-7363-414e-80d9-a6814b70dd62.png" width="100%" style="max-width:100%;"/>
+<img src="https://user-images.githubusercontent.com/76014502/148054847-549623ea-5825-467a-a02e-30c6d5e94358.png" width="100%" style="max-width:100%;"/>
 
 <code>
      <img src="https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=00ff00&labelColor=141414&color=black"/>
@@ -26,9 +26,10 @@
      <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=4A31C3&labelColor=141414&color=black"/>
      <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E&labelColor=141414&color=black"/>
 </code>
+
 <br></br>
-<br></br>
-<img src="https://user-images.githubusercontent.com/76014502/148044914-9cd3ecd1-2654-452a-9b86-b0d390522533.png"  style="max-width:100%;" height="40"/>
+<img src="https://user-images.githubusercontent.com/76014502/148059555-a6f44487-3e59-40c3-ba8b-f5efaf344336.png" width="40%" style="max-width:250px;"/>
+
 <code>
  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=00ff00&labelColor=141414&color=black"/>
  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=141414&color=black"/>
