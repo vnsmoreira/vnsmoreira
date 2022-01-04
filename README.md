@@ -1,7 +1,7 @@
 ### <a href="./src/assets" style="color:red;">Portuguese</a> | <a href="./src/assets">English</a>
 <br></br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=vnsmoreira&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D&dates=FCC1FF&fire=A704DD" width="500" style="max-width:100%;"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=vnsmoreira&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D&dates=FCC1FF&fire=A704DD" width="960" style="max-width:100%;"/>
 
 
 <code>
@@ -12,6 +12,7 @@
      <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=ff00ff&labelColor=141414&color=black"/>
      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=74c7ff&labelColor=141414&color=black"/>
      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffa500&labelColor=141414&color=black"/>
+     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=ffa500&labelColor=141414&color=black"/>
 </code> 
 
 <br></br>
