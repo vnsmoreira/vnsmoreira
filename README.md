@@ -14,10 +14,6 @@
 </code> 
 <br></br>
 <code>
-     <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=red&labelColor=141414&color=black"/>
-</code> 
-<br></br>
-<code>
      <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=ffa500&labelColor=141414&color=black"/>
      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=ff00ff&labelColor=141414&color=black"/>
 </code>
