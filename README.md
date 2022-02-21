@@ -1,4 +1,3 @@
-### <a href="./" style="color:red;">Portuguese</a> | <a href="./">English</a>
 <br></br>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=vnsmoreira&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D&dates=FCC1FF&fire=A704DD" width="100%" style="max-width:100%;"/>
 <img src="https://user-images.githubusercontent.com/76014502/148054847-549623ea-5825-467a-a02e-30c6d5e94358.png" width="100%"/>
