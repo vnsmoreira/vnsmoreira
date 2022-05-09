@@ -25,7 +25,7 @@
      <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&labelColor=141414&color=black"/>
      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=74c7ff&labelColor=141414&color=black"/>
      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffa500&labelColor=141414&color=black"/>
-     
+     <img src="https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=purple&labelColor=141414&color=black"/>
 </code>
 
 
